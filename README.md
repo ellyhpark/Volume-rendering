@@ -14,7 +14,7 @@ A (work-in-progress) volume renderer that visualizes 3D Perlin noise.
 - User control for different volume densities
 
 ## Preview
-Feel free to try out the [interactive demo](https://ellyhpark.github.io/Ray-tracing).
+Feel free to try out the [interactive demo](https://ellyhpark.github.io/Volume-rendering).
 
 ## Contributors
 Thank you [sangkunine](https://github.com/sangkunine) for your mentorship.
